@@ -1,0 +1,8 @@
+dataCRUD\UserCRUDEJBRemote.class
+dataCRUD\UserCRUDEJB.class
+data\Car.class
+data\Player.class
+data\User.class
+data\Team.class
+dataCRUD\CarCRUDEJB.class
+dataCRUD\CarCRUDRemote.class
